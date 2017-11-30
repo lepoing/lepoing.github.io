@@ -1,2 +1,2 @@
-# lepoing.github.io
-Here is my own site, resume...
+# ngmikeng.github.io
+About me.
